@@ -6,4 +6,4 @@ print(2 * 2 + 2)                                #"3st program".
 print(2 * (2 + 2))                              #"3st program".
 print(2 * 2 + 2 == 2 * (2 + 2))                 #"3st program".
 
-                          # "4st program".
+print(int(float('123.456')*10)%10)              # "4st program".
